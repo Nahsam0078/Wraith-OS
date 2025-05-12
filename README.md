@@ -18,11 +18,12 @@
 ---
 
 ## 🗂️ Repo Structure
+```
 /archiso/ # Configs for building ISO with archiso
 /scripts/ # Custom setup and install scripts
 /wallpapers/ # Custom wallpapers and branding
 /README.md # You're here
-
+```
 ---
 
 ## 🧠 Upcoming AI Tools
