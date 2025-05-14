@@ -1,4 +1,5 @@
 # 👻 Wraith OS
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Wraith+OS%3A+Ghost-level+Cyber+Ops;Built+on+BlackArch%2C+Tuned+for+Hackers;AI-Assisted+Recon+and+Reporting)](https://git.io/typing-svg)
 
 > **Wraith OS** is my personal, custom-built hacking distro — sleek, lightweight, and built on top of BlackArch. It’s tuned for speed, style, and only the tools I actually use. I’m also cooking up some AI features to make recon, scripting, and reporting effortless.  
 >  
